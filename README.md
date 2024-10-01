@@ -2,7 +2,7 @@
 
 ### Mobile App Developer | Android, iOS and Flutter Specialist
 
-[![LinkedIn Badge](https://img.shields.io/badge/-Ramakant%20Tiwari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://linkedin.com/in/ramakanttiwari) 
+[![LinkedIn Badge](https://img.shields.io/badge/-Ramakant%20Tiwari-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://linkedin.com/in/ramakant-tiwari) 
 [![Gmail Badge](https://img.shields.io/badge/-tech.ramakanttiwari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tech.ramakanttiwari@gmail.com)](mailto:tech.ramakanttiwari@gmail.com)
 
 ---
