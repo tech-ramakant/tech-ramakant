@@ -2,11 +2,11 @@
 
 ### Mobile App Developer | Android, iOS and Flutter Specialist
 
-[![Gmail Badge](https://img.shields.io/badge/-tech.ramakanttiwari@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tech.ramakanttiwari@gmail.com)](mailto:tech.ramakanttiwari@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-tech.ramakant-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tech.ramakanttiwari@gmail.com)](mailto:tech.ramakanttiwari@gmail.com)
 [![X Badge](https://img.shields.io/badge/-Tech_Ramakant-black?style=flat&logo=X&logoColor=white&link=https://x.com/tech_ramakant)](https://x.com/tech_ramakant)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Ramakant-Tiwari-red?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/28200428/tech-ramakant)](https://stackoverflow.com/users/28200428/tech-ramakant)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Ramakant_Tiwari-red?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/28200428/tech-ramakant)](https://stackoverflow.com/users/28200428/tech-ramakant)
 [![Medium Badge](https://img.shields.io/badge/-Tech.Ramakant-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@tech.ramakant)](https://medium.com/@tech.ramakant)
-[![LinkedIn Badge](https://img.shields.io/badge/-Tech-Ramakant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://www.linkedin.com/in/tech-ramakant)
+[![LinkedIn Badge](https://img.shields.io/badge/-Tech_Ramakant-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://www.linkedin.com/in/tech-ramakant)
 [![YouTube Badge](https://img.shields.io/badge/-Tech.Ramakant-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/@Tech.Ramakant)](https://www.youtube.com/@Tech.Ramakant) 
 
 ---
