@@ -2,7 +2,7 @@
 
 ### Mobile App Developer | Android, iOS and Flutter Specialist
 
-[![Gmail Badge](https://img.shields.io/badge/-tech.ramakant-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tech.ramakanttiwari@gmail.com)](mailto:tech.ramakanttiwari@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Tech.Ramakant-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tech.ramakanttiwari@gmail.com)](mailto:tech.ramakanttiwari@gmail.com)
 [![X Badge](https://img.shields.io/badge/-Tech_Ramakant-black?style=flat&logo=X&logoColor=white&link=https://x.com/tech_ramakant)](https://x.com/tech_ramakant)
 [![Stackoverflow Badge](https://img.shields.io/badge/-Ramakant_Tiwari-red?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/28200428/tech-ramakant)](https://stackoverflow.com/users/28200428/tech-ramakant)
 [![Medium Badge](https://img.shields.io/badge/-Tech.Ramakant-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@tech.ramakant)](https://medium.com/@tech.ramakant)
