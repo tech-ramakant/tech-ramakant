@@ -1,4 +1,4 @@
-# Hi, I'm Ramakant Tiwari 👋
+# Hi, I'm Tiwari Ramakant 👋
 
 ### Mobile App Developer | Android, iOS and Flutter Specialist
 
