@@ -45,7 +45,9 @@ I am passionate about adopting new technologies and optimizing development workf
 
 ### 📫 Let's Connect!
 
-- [Email](mailto:tech.ramakanttiwari@gmail.com)
-- [Medium](https://medium.com/@tech.ramakant)
-- [LinkedIn](https://www.linkedin.com/in/ramakant-tiwari-593479128)
-- [YouTube](https://www.youtube.com/@Tech.Ramakant)
+- ✉️ [Email](mailto:tech.ramakanttiwari@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tech-ramakant)
+- 🐦 [X (Twitter)](https://x.com/tech_ramakant)
+- 💬 [StackOverflow](https://stackoverflow.com/users/28200428/tech-ramakant)
+- ✍️ [Medium](https://medium.com/@tech.ramakant)
+- 🎥 [YouTube](https://www.youtube.com/@Tech.Ramakant)
