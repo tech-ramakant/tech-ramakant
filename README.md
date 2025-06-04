@@ -7,7 +7,9 @@
 [![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-red?style=flat&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/28200428/tech-ramakant)](https://stackoverflow.com/users/28200428/tech-ramakant)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@tech.ramakant)](https://medium.com/@tech.ramakant)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://www.linkedin.com/in/tech-ramakant)
-[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/@Tech.Ramakant)](https://www.youtube.com/@Tech.Ramakant) 
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/@Tech.Ramakant)](https://www.youtube.com/@Tech.Ramakant)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/tech.ramakant)](https://facebook.com/tech.ramakant)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/tech.ramakant)](https://instagram.com/tech.ramakant)
 
 ---
 
