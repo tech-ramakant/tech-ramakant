@@ -8,9 +8,10 @@
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@tech.ramakant)](https://medium.com/@tech.ramakant)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/ramakanttiwari)](https://www.linkedin.com/in/tech-ramakant)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube&logoColor=white&link=https://www.youtube.com/channel/@Tech.Ramakant)](https://www.youtube.com/@Tech.Ramakant)
+[![Quora Badge](https://img.shields.io/badge/-Quora-B92B27?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Tech-Ramakant)](https://www.quora.com/profile/Tech-Ramakant)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/tech.ramakant)](https://instagram.com/tech.ramakant)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://facebook.com/tech.ramakant)](https://facebook.com/tech.ramakant)
-[![Quora Badge](https://img.shields.io/badge/-Quora-B92B27?style=flat&logo=Quora&logoColor=white&link=https://www.quora.com/profile/Tech-Ramakant)](https://www.quora.com/profile/Tech-Ramakant)
+
 
 
 
