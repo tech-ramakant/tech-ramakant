@@ -1,4 +1,4 @@
-# Hi, I'm Tiwari Ramakant 👋
+# Hi, I'm Tiwari Ramakant
 
 ### Mobile App Developer | Android, iOS and Flutter Specialist
 
@@ -17,7 +17,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 I am a **Mobile App Developer** with 7+ years of experience specializing in **Android** (Java & Kotlin) and **Flutter** (Dart). I have developed and deployed applications in diverse domains such as e-commerce, community management, and healthcare. My focus is on building innovative and user-friendly solutions that enhance experiences and drive business success.
 
