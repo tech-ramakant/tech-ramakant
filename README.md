@@ -19,7 +19,7 @@
 
 ### About Me
 
-I am a **Mobile App Developer** with 7+ years of experience specializing in **Android** (Java & Kotlin) and **Flutter** (Dart). I have developed and deployed applications in diverse domains such as e-commerce, community management, and healthcare. My focus is on building innovative and user-friendly solutions that enhance experiences and drive business success.
+I am a **Mobile App Developer** with 7+ years of experience specializing in **Android** (Java & Kotlin), **iOS** (Swift) and **Flutter** (Dart). I have developed and deployed applications in diverse domains such as e-commerce, community management, and healthcare. My focus is on building innovative and user-friendly solutions that enhance experiences and drive business success.
 
 I am passionate about adopting new technologies and optimizing development workflows. In addition to app development, I am expanding my skills in **iOS development**, **full stack development**, and **data science**.
 
