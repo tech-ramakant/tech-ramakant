@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=$+flutter+clean;$+flutter+pub+get;Hi,+I'm+Ramakant+Tiwari;Mobile+%26+Fullstack+Specialist;7%2B+years+experience;Let's+build+something+awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&width=600&lines=$+flutter+clean;$+flutter+pub+get;Hi,+I'm+Ramakant+Tiwari;Mobile+%26+Fullstack+Specialist;7%2B+years+experience)](https://git.io/typing-svg)
 
 ---
 
