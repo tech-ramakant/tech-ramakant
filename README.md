@@ -35,10 +35,6 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, and **Flutter (Dart)*
 [![GitHub Streak](https://streak-stats.demolab.com?user=tech-ramakant&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tech-ramakant&theme=tokyo-night)  
 
-🏔️ **3D Contribution Graphs**  
-![3D Rainbow](https://raw.githubusercontent.com/tech-ramakant/tech-ramakant/output/profile-night-rainbow.svg)  
-![3D Green](https://raw.githubusercontent.com/tech-ramakant/tech-ramakant/output/profile-green.svg)  
-
 ---
 
 ## 🐍 Contribution Snake  
