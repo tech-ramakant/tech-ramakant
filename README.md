@@ -73,8 +73,6 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ![Ramakant's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tech-ramakant&theme=tokyo-night)  
 
-![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)  
-
 ---
 
 ## 🐍 Contribution Snake  
