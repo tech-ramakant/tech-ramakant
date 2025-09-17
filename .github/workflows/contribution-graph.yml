@@ -3,7 +3,7 @@ name: Generate 3D Contribution Graph
 on:
   schedule:
     - cron: "0 0 * * *"   # run daily
-  workflow_dispatch:      # allow manual run
+  workflow_dispatch:
 
 jobs:
   build:
@@ -14,9 +14,10 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3d-contrib@0.5.0   # stable version
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: tech-ramakant   # 👈 set your username here
 
       - name: Push 3D Graphs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
