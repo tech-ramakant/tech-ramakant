@@ -11,6 +11,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 ---
 
 ### 🏗️ Architectures & Patterns  
+
 - 🟢 **MVVM** 
 - 🔵 **MVP** 
 - 🟣 **VIPER**  
