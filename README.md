@@ -10,6 +10,15 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
+### 🏗️ Architectures & Patterns  
+- 🟢 **MVVM** 
+- 🔵 **MVP** 
+- 🟣 **VIPER**  
+- 🟠 **Clean Architecture**  
+- ✅ **Unit Testing** (JUnit, Mockito, Espresso)  
+
+---
+
 ## ⚡ Tech Stack  
 
 ### 📱 Mobile Development  
@@ -24,17 +33,8 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-### 🏗️ Architectures & Patterns  
-- 🟢 **MVVM** (Android Jetpack)  
-- 🔵 **MVP** (Android)  
-- 🟣 **VIPER** (iOS)  
-- 🟠 **Clean Architecture**  
-- ✅ **Unit Testing** (JUnit, Mockito, Espresso)  
-
----
-
 ### ⚙️ Frameworks & Libraries  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -46,7 +46,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 ---
 
 ### 🗄️ Databases & Cloud  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -56,7 +56,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 ---
 
 ### 🛠️ Tools & DI  
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Dagger-EC2025?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
