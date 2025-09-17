@@ -12,7 +12,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ## 📬 Connect with Me  
 
-<p align="center">
+<p>
   <a href="mailto:tech.ramakanttiwari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
