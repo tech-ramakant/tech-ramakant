@@ -15,7 +15,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 - 🔵 **MVP** 
 - 🟣 **VIPER**  
 - 🟠 **Clean Architecture**  
-- ✅ **Unit Testing** (JUnit, Mockito, Espresso)  
+- ✅ **Unit Testing**  
 
 ---
 
