@@ -1,48 +1,42 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=600&lines=flutter+clean;flutter+pub+get;Hi%2C+I%27m+Ramakant+Tiwari;+Mobile+%26+Fullstack+Specialist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=36BCF7&width=600&lines=$+flutter+clean;$+flutter+pub+get;Hi,+I'm+Ramakant+Tiwari;Mobile+%26+Fullstack+Specialist;7%2B+years+experience)](https://git.io/typing-svg)
 
 ---
 
-### 👋 About Me
+### 🧑‍💻 About Me  
+I’m **Ramakant Tiwari** — Mobile & Fullstack Developer with **7+ years** of experience.  
+Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, and **Flutter (Dart)**.  
 
-I’m **Ramakant Tiwari** — Mobile App Developer with **7+ years** of experience in Android (Java/Kotlin), iOS (Swift), and **Flutter (Dart)**.  
-I build apps that are clean, performant, and have user delight.
-
----
-
-### 🛠 Tech Stack & Tools
-
-| Category        | Tools / Languages |
-|-----------------|-------------------|
-| **Languages**   | Dart · Kotlin · Java · Swift · Python |
-| **Frameworks / SDKs** | Flutter · Android SDK · iOS SDK |
-| **Databases**   | SQLite · Firebase · MongoDB · PostgreSQL (learning) |
-| **Version Control** | Git |
-| **Cloud & DevOps** | Firebase · AWS (learning) · CI/CD · Docker (learning) |
+I love solving real-world problems with **scalable apps** 🚀  
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Tech Stack  
 
-[![Ramakant’s GitHub stats](https://github-readme-stats.vercel.app/api?username=tech-ramakant&show_icons=true&theme=tokyonight)](https://github.com/tech-ramakant)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tech-ramakant&layout=compact&theme=tokyonight)](https://github.com/tech-ramakant)
-
----
-
-### 🌱 Learning / Growth
-
-- Full-Stack Development (MERN)  
-- Backend with Django  
-- More on Cloud (AWS etc.)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-### 📬 Contact Me
+### 📊 GitHub Stats  
 
-| Platform | Link |
-|---|---|
-| LinkedIn | [tech-ramakant](https://www.linkedin.com/in/tech-ramakant) |
-| Medium | [tech.ramakant](https://medium.com/@tech.ramakant) |
-| StackOverflow | [tech-ramakant](https://stackoverflow.com/users/28200428/tech-ramakant) |
-| X / Twitter | [@tech_ramakant](https://x.com/tech_ramakant) |
+[![GitHub Streak](https://streak-stats.demolab.com?user=tech-ramakant&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)  
+
+---
+
+### 🐍 Contribution Snake  
+![GitHub Snake](https://github.com/tech-ramakant/tech-ramakant/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tech-ramakant)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tech_ramakant)  
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tech.ramakant)  
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28200428/tech-ramakant)  
