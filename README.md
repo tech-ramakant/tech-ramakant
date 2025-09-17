@@ -2,11 +2,20 @@
 
 ---
 
+## 👋 About Me  
+I’m **Ramakant Tiwari** — Mobile & Fullstack Developer with **7+ years** of experience.  
+Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, and full-stack technologies.  
+
+💡 I build apps that are **scalable, performant, and delightful** for users 🚀  
+
+---
+
 ## 📬 Connect with Me  
 
 <p align="center">
-  📧 <a href="mailto:tech.ramakanttiwari@gmail.com">tech.ramakanttiwari@gmail.com</a><br><br>
-  
+  <a href="mailto:tech.ramakanttiwari@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <a href="https://linkedin.com/in/tech-ramakant">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -35,14 +44,6 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
-
----
-
-## 👋 About Me  
-I’m **Ramakant Tiwari** — Mobile & Fullstack Developer with **7+ years** of experience.  
-Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, and full-stack technologies.  
-
-💡 I build apps that are **scalable, performant, and delightful** for users 🚀  
 
 ---
 
