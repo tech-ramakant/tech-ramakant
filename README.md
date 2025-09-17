@@ -2,6 +2,42 @@
 
 ---
 
+## 📬 Connect with Me  
+
+<p align="center">
+  📧 <a href="mailto:tech.ramakanttiwari@gmail.com">tech.ramakanttiwari@gmail.com</a><br><br>
+  
+  <a href="https://linkedin.com/in/tech-ramakant">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/tech_ramakant">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@tech.ramakant">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/28200428/tech-ramakant">
+    <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@tech-ramakant">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tech.ramakant">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/tech.ramakant">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://t.me/techramakant">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.gg/yourserver">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 👋 About Me  
 I’m **Ramakant Tiwari** — Mobile & Fullstack Developer with **7+ years** of experience.  
 Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, and full-stack technologies.  
