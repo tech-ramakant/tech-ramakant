@@ -132,11 +132,4 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ![Visitors](https://komarev.com/ghpvc/?username=tech-ramakant&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
-## 📬 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tech-ramakant)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tech_ramakant)  
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@tech.ramakant)  
-[![StackOverflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/28200428/tech-ramakant)  
