@@ -40,7 +40,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
   <a href="https://t.me/techramakant">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="https://discord.gg/yourserver">
+  <a href="https://discord.com/users/tech.ramakant">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
