@@ -34,7 +34,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
   <a href="https://instagram.com/tech.ramakant">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://facebook.com/tech.ramakant">
+  <a href="https://www.facebook.com/tech.ramakant">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://t.me/techramakant">
