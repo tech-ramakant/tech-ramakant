@@ -28,7 +28,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
   <a href="https://stackoverflow.com/users/28200428/tech-ramakant">
     <img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
   </a>
-  <a href="https://youtube.com/@tech-ramakant">
+  <a href="https://www.youtube.com/@Tech.Ramakant">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="https://instagram.com/tech.ramakant">
