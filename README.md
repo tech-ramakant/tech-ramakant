@@ -13,6 +13,9 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 ## 📬 Connect with Me  
 
 <p>
+  <a href="https://wa.me/917383681849?text=Hello%20Ramakant%2C%20I%20found%20you%20on%20GitHub!">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
   <a href="mailto:tech.ramakanttiwari@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
