@@ -2,15 +2,15 @@
 
 ---
 
-## 👋 About Me  
+##  About Me  
 I’m **Ramakant Tiwari** — Mobile & Fullstack Developer with **7+ years** of experience.  
 Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, and full-stack technologies.  
 
-💡 I build apps that are **scalable, performant, and delightful** for users 🚀  
+I build apps that are **scalable, performant, and delightful** for users 🚀  
 
 ---
 
-## 📬 Connect with Me  
+##  Connect with Me  
 
 <p>
   <a href="https://wa.me/917383681849?text=Hello%20Ramakant%2C%20I%20found%20you%20on%20GitHub!">
@@ -50,19 +50,19 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-## 🏗️ Architectures & Patterns  
+##  Architectures & Patterns  
 
-- 🟢 **MVVM** 
-- 🔵 **MVP** 
-- 🟣 **VIPER**  
-- 🟠 **Clean Architecture**  
-- ✅ **Unit Testing**  
+-  **MVVM** 
+-  **MVP** 
+-  **VIPER**  
+-  **Clean Architecture**  
+-  **Unit Testing**  
 
 ---
 
-## ⚡ Tech Stack  
+##  Tech Stack  
 
-### 📱 Mobile Development  
+###  Mobile Development  
 <p>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -74,7 +74,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-### ⚙️ Frameworks & Libraries  
+###  Frameworks & Libraries  
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -86,7 +86,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-### 🗄️ Databases & Cloud  
+###  Databases & Cloud  
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -96,7 +96,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-### 🛠️ Tools & DI  
+###  Tools & DI  
 <p>
   <img src="https://img.shields.io/badge/Dagger-EC2025?style=for-the-badge&logo=google&logoColor=white" />
   <img src="https://img.shields.io/badge/Koin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
@@ -108,7 +108,7 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-## 📊 GitHub Stats  
+##  GitHub Stats  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tech-ramakant&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)  
 
@@ -116,20 +116,20 @@ Specialized in **Android (Java/Kotlin)**, **iOS (Swift)**, **Flutter (Dart)**, a
 
 ---
 
-## 🐍 Contribution Snake  
+##  Contribution Snake  
 
 ![GitHub Snake](https://raw.githubusercontent.com/tech-ramakant/tech-ramakant/output/github-contribution-grid-snake.svg)
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tech-ramakant&repo=clean_architecture_sample&theme=tokyonight)](https://github.com/tech-ramakant/clean_architecture_sample)  
 - [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tech-ramakant&repo=simple_firebase_todo&theme=tokyonight)](https://github.com/tech-ramakant/simple_firebase_todo)  
 
 ---
 
-## ✨ Fun Section  
+##  Fun Section  
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
 
